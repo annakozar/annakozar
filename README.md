@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @annakozar
 - 👀 I’m interested in Architecture, Game design and everything related to computers.
-- 🌱 I’m currently learning AWS
 - 📫 How to reach me ann.nemochka@gmail.com
 
 <!---
